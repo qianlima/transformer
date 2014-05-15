@@ -18,6 +18,13 @@ body {
   background: url('/assets/food.png');
   font-family: Constantia, "Lucida Bright", Lucidabright, "Lucida Serif", Lucida, "DejaVu Serif", "Bitstream Vera Serif", "Liberation Serif", Georgia, serif;
 }
+.navbar-inverse .navbar-brand {
+  color: black;
+  font-family: "source_sans_proextralight", sans-serif;
+  font-size: 26px;
+  font-weight: 600;
+  letter-spacing: -0.3px;
+}
 .navbar.navbar-inverse {
   background:url('/assets/congruent_pentagon.png');
   border-radius: 0;
